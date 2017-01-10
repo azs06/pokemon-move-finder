@@ -1,3 +1,7 @@
+/*
+* fetch api 
+* https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+*/
 const pokeInput = document.getElementById('pokemonType');
 const pokeButton = document.getElementById('pokeButton');
 const pokeBlock = document.querySelector('.pokeBlock');
